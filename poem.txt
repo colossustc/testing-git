@@ -4,7 +4,10 @@ Purple
 Green
 Blue
 Yellow
+Grey
+Black
 
 These are the beautiful colors. 
 And the unicorn. 
-And the pony. 
+And the pony.
+And the genie. 

@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 Red
 Purple
 Green
@@ -6,3 +6,4 @@ Blue
 Yellow
 
 These are the beautiful colors. 
+And the unicorn. 

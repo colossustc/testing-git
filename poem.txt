@@ -3,6 +3,7 @@ Red
 Purple
 Green
 Blue
+Orange
 Yellow
 
 These are the beautiful colors. 

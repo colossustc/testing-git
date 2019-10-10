@@ -4,6 +4,7 @@ Purple
 Green
 Blue
 Orange
+Indigo
 Yellow
 
 These are the beautiful colors. 
